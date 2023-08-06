@@ -1,0 +1,45 @@
+Game Design Document
+Fill up the following document 
+
+
+
+
+Write the title of your project.
+            
+          space saver
+ 
+
+
+
+
+What is the goal of the game? 
+
+Destory all the alien and save the PLANETS
+
+
+
+Write a brief story of your game.
+
+          One day a space traveler discoverd a group of aliens destory all the planets.so, the space traveler decide to save the planets . Help the SPACE TRAVELER to save the planets.
+
+
+
+
+
+
+Which are the playing characters of this game? 
+Playing characters are the ones who respond to the user based on the input from the user.
+Cars, monkeys, dinos, wizards, etc., are the playing characters in the game.  
+
+Number	Character Name	What can this character do?
+1	space ship	main character of the game
+2	alien	villian of the game 
+
+
+
+How do you plan to make your game engaging? 
+         
+
+   #  creating more space object .
+   #  Make the more levels 
+   #  Give score to make diffcult and intesting
